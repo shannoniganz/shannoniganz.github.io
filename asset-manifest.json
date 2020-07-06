@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/shannoniganz.github.io/static/css/main.147df6aa.chunk.css",
+    "main.js": "/shannoniganz.github.io/static/js/main.fa948125.chunk.js",
+    "main.js.map": "/shannoniganz.github.io/static/js/main.fa948125.chunk.js.map",
+    "runtime-main.js": "/shannoniganz.github.io/static/js/runtime-main.0c8b7388.js",
+    "runtime-main.js.map": "/shannoniganz.github.io/static/js/runtime-main.0c8b7388.js.map",
+    "static/js/2.23131a64.chunk.js": "/shannoniganz.github.io/static/js/2.23131a64.chunk.js",
+    "static/js/2.23131a64.chunk.js.map": "/shannoniganz.github.io/static/js/2.23131a64.chunk.js.map",
+    "index.html": "/shannoniganz.github.io/index.html",
+    "precache-manifest.b04d58eaeea209e10445b79f56d1ea42.js": "/shannoniganz.github.io/precache-manifest.b04d58eaeea209e10445b79f56d1ea42.js",
+    "service-worker.js": "/shannoniganz.github.io/service-worker.js",
+    "static/css/main.147df6aa.chunk.css.map": "/shannoniganz.github.io/static/css/main.147df6aa.chunk.css.map",
+    "static/js/2.23131a64.chunk.js.LICENSE.txt": "/shannoniganz.github.io/static/js/2.23131a64.chunk.js.LICENSE.txt",
+    "static/media/Amazing 2.PNG": "/shannoniganz.github.io/static/media/Amazing 2.f03e2575.PNG",
+    "static/media/Amazing 3.PNG": "/shannoniganz.github.io/static/media/Amazing 3.701e3337.PNG",
+    "static/media/Amazing 4.PNG": "/shannoniganz.github.io/static/media/Amazing 4.94859c14.PNG",
+    "static/media/Amazing1.PNG": "/shannoniganz.github.io/static/media/Amazing1.0e4fecd4.PNG",
+    "static/media/Capture.PNG": "/shannoniganz.github.io/static/media/Capture.a88e4acd.PNG",
+    "static/media/MainaPic.PNG": "/shannoniganz.github.io/static/media/MainaPic.796def1a.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c8b7388.js",
+    "static/js/2.23131a64.chunk.js",
+    "static/css/main.147df6aa.chunk.css",
+    "static/js/main.fa948125.chunk.js"
+  ]
+}
